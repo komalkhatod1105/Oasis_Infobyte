@@ -21,7 +21,8 @@ CSS3
 JavaScript (optional scroll/button functionality)
 
 📸 Screenshot:
-Add a screenshot of your landing page here (optional)
+![image](https://github.com/user-attachments/assets/aba099e8-2f63-48b1-9b06-5b7c2d114cba)
+
 
 📁 2. Portfolio Website
 ✅ Project Description:
